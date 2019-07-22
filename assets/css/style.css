@@ -178,6 +178,18 @@ button {
     white-space: nowrap;
 }
 
+.bannerCrystal {
+    position: absolute;
+    top: 225px;
+    left: 210px;
+    transform: translate(-50%, -50%);
+    background-color: #B17CA5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 24px;
+    padding: 18px 16px;
+    white-space: nowrap;
+}
+
 footer {
     background-color: gray;
     text-align: center;
